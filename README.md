@@ -17,7 +17,7 @@
 
 <p>Confira meus projetos e sinta-se à vontade para me conectar através das minhas redes sociais e plataformas de contato abaixo. Vamos trocar ideias!</p>
 
-<div align="center">
+<div align="left">
 
 <div>
   <picture>
