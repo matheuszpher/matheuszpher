@@ -1,5 +1,16 @@
 <h1>👋🏻 Olá, eu sou Matheus!</h1>
 
+<img src= "https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador ">
+
+<div>
+  <a href="mailto:matheus.amj003@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/matheus-rodrigues-aa4016237" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+</div>
+
 <p>Bem-vindo ao meu perfil do GitHub!</p>
 
 <p>Sou estudante de <strong>Engenharia de Software</strong> na <strong>Universidade Federal do Ceará </strong> e um entusiasta apaixonado pela <strong> 📊 área de dados</strong> e <strong> 👨🏻‍💻 tecnologia</strong>.</p>
@@ -31,19 +42,5 @@
 
 <p></p>
 
-<div align="center">
-  <a href="https://instagram.com/matheusovsk" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-  <a href="https://discord.gg/wagxzStdcR" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
-  </a>
-  <a href="mailto:matheus.amj003@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.linkedin.com/in/matheus-rodrigues-aa4016237" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-</div>
 
 </div>
