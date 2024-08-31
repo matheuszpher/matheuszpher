@@ -1,6 +1,6 @@
-<h1>👋🏻 Olá, eu sou Matheus!</h1>
+<h1>👋🏻 Olá, me chamo Matheus!</h1>
 
-<img src= "https://github.com/matheuszpher/matheuszpher/blob/main/pc.png" min-width="400px" max-width="300px" width="300px" align="right" alt="Computador ">
+<img src= "https://github.com/matheuszpher/matheuszpher/blob/main/compt.png" min-width="400px" max-width="300px" width="300px" align="right" alt="Computador ">
 
 <div>
   <a href="mailto:matheus.amj003@gmail.com">
@@ -10,6 +10,8 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>
+
+<p></p>
 
 <p>Bem-vindo ao meu perfil do GitHub!</p>
 
@@ -38,6 +40,11 @@
   <img align="center" alt="Matheus-Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
   <img align="center" alt="Matheus-AWS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
   <img align="center" alt="Matheus-SQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
+  <img align="center" alt="Matheus-Azure" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg">
+  <img align="center" alt="Matheus-NumPy" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg">
+  <img align="center" alt="Matheus-NumPy" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg">
+          
+
 </div>
 
 <p></p>
