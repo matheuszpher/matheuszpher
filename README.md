@@ -1,7 +1,6 @@
 <div align="center">
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <!-- Estatísticas do GitHub -->
+<div>
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=matheuszpher&show_icons=true&theme=dark"
@@ -13,10 +12,11 @@
     />
     <img src="https://github-readme-stats.vercel.app/api?username=matheuszpher&show_icons=true" />
   </picture>
+</div>
 
-  <!-- Linguagens mais usadas -->
+<div align="center">
   <a href="https://github.com/matheuszpher">
-    <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuszpher&layout=compact&langs_count=16&theme=d"/>
+    <img height="218em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuszpher&layout=compact&langs_count=16&theme=d"/>
   </a>
 </div>
 
