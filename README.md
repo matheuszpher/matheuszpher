@@ -1,3 +1,11 @@
+<h1>👋🏻 Olá, eu sou Matheus!</h1>
+
+<p>Bem-vindo ao meu perfil do GitHub!</p>
+
+<p>Sou estudante de <strong>Engenharia de Software</strong> na <strong>Universidade Federal do Ceará </strong> e um entusiasta apaixonado pela <strong> 📊 área de dados</strong> e <strong> 👨🏻‍💻 tecnologia</strong>.</p>
+
+<p>Confira meus projetos e sinta-se à vontade para me conectar através das minhas redes sociais e plataformas de contato abaixo. Vamos trocar ideias!</p>
+
 <div align="center">
 
 <div>
@@ -12,12 +20,6 @@
     />
     <img src="https://github-readme-stats.vercel.app/api?username=matheuszpher&show_icons=true" />
   </picture>
-</div>
-
-<div align="center">
-  <a href="https://github.com/matheuszpher">
-    <img height="218em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuszpher&layout=compact&langs_count=16&theme=d"/>
-  </a>
 </div>
 
 <div style="display: inline_block; text-align: center;"><br>
