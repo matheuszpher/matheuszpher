@@ -1,6 +1,6 @@
 <h1>👋🏻 Olá, eu sou Matheus!</h1>
 
-<img src= "https://github.com/matheuszpher/matheuszpher/blob/main/pc.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador ">
+<img src= "https://github.com/matheuszpher/matheuszpher/blob/main/pc.png" min-width="400px" max-width="300px" width="300px" align="right" alt="Computador ">
 
 <div>
   <a href="mailto:matheus.amj003@gmail.com">
