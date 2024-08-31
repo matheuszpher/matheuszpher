@@ -1,4 +1,4 @@
-<h1>👋🏻 Olá, me chamo Matheus!</h1>
+<h1>👋🏻 Hello, i'm Matheus!</h1>
 
 <img src= "https://github.com/matheuszpher/matheuszpher/blob/main/compt.png" min-width="400px" max-width="300px" width="300px" align="right" alt="Computador ">
 
@@ -13,11 +13,11 @@
 
 <p></p>
 
-<p>Bem-vindo ao meu perfil do GitHub!</p>
+<p>Welcome to my GitHub profile!</p>
 
-<p>Sou estudante de <strong>Engenharia de Software</strong> na <strong>Universidade Federal do Ceará </strong> e um entusiasta apaixonado pela <strong> 📊 área de dados</strong> e <strong> 👨🏻‍💻 tecnologia</strong>.</p>
+<p>I'm a student of <strong>Software Engineering</strong> at <strong>Federal University of Ceará</strong> and a passionate enthusiast for <strong>📊 data area</strong> and <strong>👨🏻‍💻 technology</strong>.</p>
 
-<p>Confira meus projetos e sinta-se à vontade para me conectar através das minhas redes sociais e plataformas de contato abaixo. Vamos trocar ideias!</p>
+<p>Check out my projects and feel free to contact me. Let's exchange ideas!</p>
 
 <div align="left">
 
